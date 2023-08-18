@@ -1,0 +1,33 @@
+
+body{
+background: #20E9CF;
+width:80%;
+margin:0 auto;
+
+}
+
+nav a {
+	text-decoration:none;
+	color: darkred ;
+}
+nav a:hover{
+	text-decoration:underline;
+	font-weight:bold;
+	text-shadow:0 0 3px white, 0 0 2.2px black;
+}
+form{
+	border:1px black solid;
+	box-shadow:0 0 5px 2px #892A2A;
+	padding:35px;
+	width:280px;
+}
+.blanco{
+color:white ;
+font-size:20px;
+}
+.btn{
+	width:85px;
+	background:lightblue;
+	border-radius:4px;
+	
+}
